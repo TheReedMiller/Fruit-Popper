@@ -1,5 +1,11 @@
 # FruitPopper
 This is a fun little game that I made in Python. It takes insparation from the old mobile game "Fruit Ninja".
+<img width="500" alt="Screenshot 2025-05-12 at 10 39 18 PM" src="https://github.com/user-attachments/assets/9435a6b4-c224-4ea8-a45e-1e8690d99547" />
+
+<img width="500" alt="Screenshot 2025-05-12 at 10 32 04 PM" src="https://github.com/user-attachments/assets/6f2bcffc-18c9-465b-9a1d-fefc087c0a9b" />
+
+
+
 
 # How to Play
 Make sure to download the files and folders, and move them into a folder in your local workspace. Once you are moved into the corect directory make sure to type: "pip install pygame" into the terminal. After that the game is set up and ready to go, just run the program and the game should automatically open up a new window for you to play the game.
